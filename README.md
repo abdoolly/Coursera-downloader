@@ -37,4 +37,6 @@ If this script helped you please Donate
 
 [![paypal](https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QG9BYG3TFTHF4)
 
+if you needed any additional functionality please send me at
 
+abdoolly@gmail.com
