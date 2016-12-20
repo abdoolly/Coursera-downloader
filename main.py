@@ -6,11 +6,9 @@ email = "elgenius3000@gmail.com" # your email
 password = "0146522653"          # your password
 
 # URL
-# change this to your course url week you want to download its lectures
 url = "https://www.coursera.org/learn/ml-foundations/home/week/3"
 
 # Download To
-# change this to the path you want to download to in your computer
 download_url = "/home/elgenius/courses/machine learning spec/ml foundation/week3/"
 
 # file name prefix to save with
