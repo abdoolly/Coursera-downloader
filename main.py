@@ -2,17 +2,17 @@ from selenium import webdriver
 import urllib.request as urlRequest
 
 # Credentials
-email = "elgenius3000@gmail.com" # your email
-password = "0146522653"          # your password
+email = "example@gmail.com"     # your email
+password = "123456789"          # your password
 
 # URL
-url = "https://www.coursera.org/learn/ml-foundations/home/week/3"
+url = "https://www.coursera.org/learn/ml-foundations/home/week/5"
 
 # Download To
-download_url = "/home/elgenius/courses/machine learning spec/ml foundation/week3/"
+download_url = "/home/elgenius/courses/machine learning spec/ml foundation/week5/"
 
 # file name prefix to save with
-filename = "week3-"
+filename = "week5-"
 
 # Path To Chrome Driver
 path_to_chromedriver = './chromedriver'
